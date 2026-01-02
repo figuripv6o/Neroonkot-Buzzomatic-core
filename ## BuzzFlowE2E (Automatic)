@@ -1,0 +1,62 @@
+---
+
+## BuzzFlowE2E (Automatic)
+
+Every push triggers:
+- integrity checks
+- policy grammar validation
+- skeleton conformance
+- compliance posture verification
+
+No manual steps.  
+No silent drift.
+
+---
+
+## Compliance & Trust
+
+This repository is aligned to:
+- **NIST CSF**
+- **ISO/IEC 27001 (conceptual mapping)**
+- **OWASP MASVS**
+- **SOC-2 (Security & Availability)**
+
+Evidence is produced by:
+- deterministic routing logs
+- policy provenance
+- auditable workflows
+
+---
+
+## Identity & Moral Use
+
+This system **will not**:
+- obscure identity
+- mint deceptive identifiers
+- harvest personal data
+- enable coercive inference
+
+Every capability is bound to:
+- purpose
+- consent
+- accountability
+
+---
+
+## License
+
+GNU GPL v3.0  
+Power must remain reciprocal.
+
+---
+
+## Closing Statement
+
+> Intelligence without ethics is just velocity.  
+> **Buzzomatic chooses direction.**
+
+🟢 Public.  
+🟢 Verifiable.  
+🟢 Governed.
+
+— **Buzzomatic Intelligence LLC**
