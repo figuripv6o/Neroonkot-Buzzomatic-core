@@ -1,0 +1,23 @@
+# Neroonkot Documentation
+
+This documentation exists to explain *why* the system behaves the way it does—not to market it.
+
+- Architecture
+- Inference flow
+- Policy gates
+- Compliance posture 
+
+6️⃣ VISUAL SIGNAL (WHAT PEOPLE NOTICE FIRST)
+You already have the art. Use it deliberately:
+assets/banners/ → ONE hero banner
+assets/badges/ → FDF-CERTIFIED™, Policy-Gated, Hybrid-Inference
+assets/logos/ → single, repeatable mark
+No clutter. No sticker pack chaos.
+
+7️⃣ WHY THIS LOOKS “NOT DONE BEFORE”
+Because it:
+Refuses hype language
+Separates intelligence from platform politics
+Treats GitHub as a record, not a billboard
+Reads like infrastructure, not a pitch
+This is the kind of repo people bookmark quietly.
