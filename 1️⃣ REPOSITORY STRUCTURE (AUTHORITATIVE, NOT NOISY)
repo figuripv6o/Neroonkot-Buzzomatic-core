@@ -1,0 +1,28 @@
+Neroonkot-Buzzomatic-Core/
+├── .github/
+│   └── workflows/
+│       └── buzzflow-e2e.yml
+├── docs/
+│   ├── index.md
+│   ├── architecture.md
+│   ├── compliance.md
+│   └── identity.md
+├── src/
+│   └── inference/
+│       ├── device-detect.ts
+│       ├── hybrid-engine.ts
+│       └── policy-gate.ts
+├── assets/
+│   ├── banners/
+│   ├── badges/
+│   └── logos/
+├── .gitignore
+├── LICENSE
+└── README.md
+
+This layout communicates:
+Intentional design
+Separation of signal vs depth
+Long-term extensibility
+Compliance-first posture
+
