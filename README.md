@@ -15,6 +15,10 @@ Neroonkot is the **core inference and decision layer** of Buzzomatic Intelligenc
 
 It exists to answer one question:
 
+This directory exists to preserve decisions, constraints, and observations over time.
+It is not a roadmap, not marketing, and not a backlog.
+Entries may be incomplete. Accuracy matters more than polish.
+
 > *How does intelligence behave when it respects the device, the user, and the boundary—without asking permission from platform limits?*
 
 ---
