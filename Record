@@ -1,0 +1,6 @@
+/record
+├─ README.md              # What this ledger is and is not
+├─ architecture/          # Design notes, tradeoffs, invariants
+├─ inference/             # Routing logic, device detection, policy
+├─ compliance/            # Alignment notes, mappings, attestations
+└─ observations/          # Quiet notes, edge cases, anomalies
